@@ -1,3 +1,4 @@
+final,var1,var2,var3,var4,var5
 policía nacional civil,policía nacional,@pnc_sv,pnc,policía,@pncsv
 fuerza armada,@fuerzarmadasv,ejército,,,
 asamblea legislativa,@asambleasv,asamblea,,,
@@ -12,7 +13,7 @@ centros penales,@centrospenales,dirección general de centros penales,,,
 compañías telefónicas,empresas de telefonía,,,,
 ministro defensa,ministro de defensa,@merino_monroy,,,
 mara salvatrucha,ms13,ms-13,ms,,
-pandillas,maras,,,,
+maras,pandillas,,,,
 #fase2,fase 2,,,,
 pandilleros,terroristas,"""muchachos""","""angelitos""",angelito,
 #fase3,y 3,", 3",,,
@@ -43,5 +44,4 @@ fuerza naval,marina nacional,fuerza de tarea naval tridente,,,
 #fase7,y 7,fase7,,,
 cecot,centro de confinamiento del terrorismo,centro de confinamiento del terrorismo,,,
 américa latina,latam,america latina,,,
-
 exception regime,state of exception,,,,
